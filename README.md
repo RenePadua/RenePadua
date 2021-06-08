@@ -16,7 +16,7 @@ I don't know exactly how works it, but I will keeping learning!
 <div> 
   
 ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
-  <img style="border-radius: 40px" align="right" alt="Rene" height="auto" width="40%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
+  <img style="border-radius: 40px" align="right" alt="Rene" height="auto" width="8%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
   
  
 </div>
