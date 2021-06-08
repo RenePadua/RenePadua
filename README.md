@@ -7,7 +7,7 @@ I don't exactly knows how it's work, but I will keeping learning!
 
 ```
   
-![Robot animation](https://github.com/RenePadua/RenePadua/tree/main/SVG/robot/robot.svg)
+![Robot animation](https://github.com/RenePadua/RenePadua/main/SVG/robot/robot.svg)
   
 </div>
 <!--
