@@ -12,11 +12,10 @@ I don't know exactly how works it, but I will keeping learning!
   <img align="center" alt="Rene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
 <div> 
   
 ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
-  <img style="border-radius: 40px" align="right" alt="Rene" height="auto" width="14%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
+  <img style="border-radius: 40px" align="right" alt="Rene" height="auto" width="12%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
   
  
 </div>
