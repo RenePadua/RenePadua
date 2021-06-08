@@ -6,9 +6,9 @@ I don't exactly how it works but, I keep learning!
 #### ⚫ robot
 
 ```
-[![SVG Banners](https://svg-banners.vercel.app/api?type=-robot&text1=robot&width=800&height=400)](https://github.com/RenePadua/RenePadua)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=-robot=robot&width=800&height=400)](https://github.com/RenePadua/RenePadua)
 ```
-[![SVG Banners](https://svg-banners.vercel.app/api?type=robot&text1=robot&width=800&height=400)](https://github.com/RenePadua/RenePadua)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=robot=robot&width=800&height=400)](https://github.com/RenePadua/RenePadua)
 
 </div>
 <!--
