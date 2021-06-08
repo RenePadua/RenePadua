@@ -1,5 +1,5 @@
 ### Hi there 👋
-I don't exactly knows how it's work, but I will keeping learning! 
+I don't know exactly how works it, but I will keeping learning! 
 
 
 
