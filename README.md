@@ -10,8 +10,7 @@ I don't know exactly how works it, but I will keeping learning!
   <img align="center" alt="Rene-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rene-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Rene" height"150" width = "160" src="https://giphy.com/gifs/coffee-lover-fresh-brewed-HVhofxmUXMyGs">
+   <img align="right" alt="Rene" height"150" width = "160" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
 </div>
 
 
