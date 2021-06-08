@@ -7,7 +7,7 @@ I don't exactly knows how it's work, but I will keeping learning!
   
   ![Snake animation](https://github.com/RenePadua/RenePadua/blob/main/github-contribution-grid-snake.svg)
   
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
