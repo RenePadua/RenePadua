@@ -4,8 +4,6 @@
   <a href="https://github.com/RenePadua">
   <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RenePadua&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenePadua&layout=compact&theme=github_dark"/>
-   
-   
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,12 +13,16 @@
  </a>
 </div>
 
-  <img style="border: solid 4px; border-radius: 40px;" align="right" alt="coffee" height="auto" width="12%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
-  
+<div>
+ <img align="right" alt="coffee" height="auto" width="12%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
+</div> 
+ 
  ##
   
-<div> 
+<div>
+ 
  ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <!--
