@@ -14,7 +14,7 @@
 </div>
 
 <div>
- <img align="right" alt="coffee" height="auto" width="12%" src="https://media.giphy.com/media/HVhofxmUXMyGs/giphy.gif">
+ <img align="right" alt="coffee" height="auto" width="26%" src="https://media1.tenor.com/images/dd16a09cd78231be4ae3e45717e94c3b/tenor.gif">
 </div> 
  
  ##
