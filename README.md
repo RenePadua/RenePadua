@@ -1,4 +1,4 @@
- ## Hi there 👋 <br> I don't know how exactly this works, but I will keep trying to learn! 
+ ## Hi there 👋 <br> Welcome to my repository! 
  
 <div>
   <a href="https://github.com/RenePadua">
