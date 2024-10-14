@@ -14,7 +14,7 @@
 </div>
 
 <div>
- <img align="right" alt="coffee" height="auto" width="20%" src="https://media1.tenor.com/images/068f3dfb941cb11ed283e5c787ff2a81/tenor.gif">
+ <img style="border: 1px solid #333; border-radius: 60px 0px;" align="right" alt="coffee" height="auto" width="20%" src="https://media1.tenor.com/images/068f3dfb941cb11ed283e5c787ff2a81/tenor.gif">
  
 </div> 
  
