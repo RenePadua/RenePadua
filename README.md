@@ -1,7 +1,4 @@
- ## Renê Pádua <br>
-
- Hi there 👋
- <br>
+ ## Renê Pádua
 **Internet Systems Technologist & Front-End Web Developer**
 <br>
 <div>
