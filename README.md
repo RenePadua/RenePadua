@@ -1,7 +1,12 @@
- ## Hi there 👋 <br> Welcome to my repository! 
- 
+<!DOCTYPE html>
+<HTML lang="pt-br">
+<body>
+
+
+    ## Hi there 👋 <br> Welcome to my repository!
+
 <div>
-  <a href="https://github.com/RenePadua">
+        <a href="https://github.com/RenePadua">
   <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RenePadua&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenePadua&layout=compact&theme=github_dark"/>
 </div>
@@ -13,20 +18,19 @@
  </a>
 </div>
 
-<div>
- <img style="border: 1px solid #333; border-radius: 60px 0px;" align="right" alt="coffee" height="auto" width="20%" src="https://media1.tenor.com/images/068f3dfb941cb11ed283e5c787ff2a81/tenor.gif">
- 
-</div> 
- 
- ##
-  
-<div>
- 
- ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
+    <div>
+        <img style="border: 1px solid #333; border-radius: 30px 0px;" align="right" alt="coffee" height="auto" width="20%" src="https://media1.tenor.com/images/068f3dfb941cb11ed283e5c787ff2a81/tenor.gif">
+    </div>
 
-</div>
+    ##
 
-<!--
+    <div>
+
+        ![Snake animation](https://github.com/RenePadua/RenePadua/blob/output/github-contribution-grid-snake.svg)
+
+    </div>
+
+    <!--
 **RenePadua/RenePadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,3 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</body>
+
+</html>
