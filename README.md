@@ -24,7 +24,7 @@
 
 
 
-Ps.: Coffe lover ☕🤎 and Enthusiast of the image and video editing too
+Ps.: Coffee lover ☕🤎 and Enthusiast of the image and video editing too
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffff00)](https://www.linkedin.com/in/ren%C3%AA-p%C3%A1dua-99684729/)
